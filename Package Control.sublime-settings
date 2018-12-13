@@ -9,12 +9,25 @@
 		"All Autocomplete",
 		"ApplySyntax",
 		"BracketHighlighter",
+		"Browser Refresh",
 		"Emmet",
+		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"JSX",
+		"Monokai - Spacegray",
+		"Monokai Dark",
+		"Monokai Gray",
+		"Monokai++",
 		"Package Control",
 		"SCSS",
-		"ERB Snippets"
+		"Semantic UI",
+		"Seti_UI",
+		"Seti_UX",
+		"SublimeLinter-contrib-sublime-syntax",
+		"Theme - Brogrammer",
+		"Theme - Monokai Pro",
+		"Theme - Seti Monokai",
+		"Theme - Soda"
 	]
 }
